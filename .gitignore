@@ -14,5 +14,4 @@ dist
 # editor
 .vscode
 
-vite.config.js
 

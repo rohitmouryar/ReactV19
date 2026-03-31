@@ -328,11 +328,22 @@
 
 // Tutorial 29
 
-import { UseList } from "./components/hooks/uselist";
+// import { UseList } from "./components/hooks/uselist";
+// export const App = () => {
+//   return (
+//     <div>
+//       <UseList />
+//     </div>
+//   );
+// };
+
+// Tutorial 31
+
+import { ToggleSwitch } from "./Project/ToggleSwitch/ToggleSwtich";
 export const App = () => {
   return (
     <div>
-      <UseList />
+      <ToggleSwitch />
     </div>
   );
 };
