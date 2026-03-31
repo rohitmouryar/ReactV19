@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.c-div{
+    background-color: burlywood;
+}
+
+.g-div {
+  background-color: blue;
+}
+
+.p-di{
+  background-color:green;
+}
