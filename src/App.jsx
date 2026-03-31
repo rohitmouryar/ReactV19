@@ -339,11 +339,21 @@
 
 // Tutorial 31
 
-import { ToggleSwitch } from "./Project/ToggleSwitch/ToggleSwtich";
+// import { ToggleSwitch } from "./Project/ToggleSwitch/ToggleSwtich";
+// export const App = () => {
+//   return (
+//     <div>
+//       <ToggleSwitch />
+//     </div>
+//   );
+// };
+
+// Tutorial 32
+import { Todo } from "./Project/Todo/Todo";
 export const App = () => {
   return (
     <div>
-      <ToggleSwitch />
+      <Todo />
     </div>
   );
 };
