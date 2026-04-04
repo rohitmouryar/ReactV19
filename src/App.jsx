@@ -359,11 +359,11 @@
 // };
 
 // Tutorial 37 Date and time
-import { DataTime } from "./Project/DataTime";
+import { DateTime } from "./Project/DateTime/DateTime";
 export const App = () => {
   return (
     <div>
-      <DataTime />
+      <DateTime />
     </div>
   );
 };
