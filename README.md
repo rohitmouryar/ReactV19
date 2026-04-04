@@ -9,6 +9,7 @@
 
 ---
 
-![Project2](.//src/assets/Datatime.PNG)
+- Project 2 Date and Time
+  ![Project2](.//src/assets/Datatime.PNG)
 
 ---
