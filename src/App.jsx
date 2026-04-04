@@ -349,11 +349,21 @@
 // };
 
 // Tutorial 32
-import { Todo } from "./Project/Todo/Todo";
+// import { Todo } from "./Project/Todo/Todo";
+// export const App = () => {
+//   return (
+//     <div>
+//       <Todo />
+//     </div>
+//   );
+// };
+
+// Tutorial 37 Date and time
+import { DataTime } from "./Project/DataTime";
 export const App = () => {
   return (
     <div>
-      <Todo />
+      <DataTime />
     </div>
   );
 };
