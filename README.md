@@ -9,7 +9,8 @@
 
 ---
 
-- Project 2 Date and Time
+- <h3>Project 2 Date and Time</h3>
+
   ![Project2](.//src/assets/Datatime.PNG)
 
 ---
