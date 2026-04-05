@@ -15,5 +15,6 @@
 
 ---
 
-<h3>Mini Project : 3 Cancel Button functionality </h3>
-![Project 3](.//src/assets/CancelButton.PNG)
+- <h3>Mini Project : 3 Cancel Button functionality </h3>
+
+![Project3](./src/assets/CancelButton.PNG)
